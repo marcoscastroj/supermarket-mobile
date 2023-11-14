@@ -12,6 +12,6 @@ Este é um aplicativo móvel simples para um supermercado, desenvolvido usando R
 ## Requisitos do Sistema
 
 - Node.js
-- Expo CLI
-- Yarn ou npm
+- Uso do Expo app
+
 
